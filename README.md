@@ -112,7 +112,3 @@ You can deploy on Vercel (recommended for Next.js):
 - `next.config.ts` currently ignores TypeScript and ESLint errors during builds. For stricter production quality, remove:
 	- `typescript.ignoreBuildErrors: true`
 	- `eslint.ignoreDuringBuilds: true`
-
-## License
-
-This project currently has no license file in the repository.
